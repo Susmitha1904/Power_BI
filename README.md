@@ -1,8 +1,8 @@
-# 📊 Power BI Dashboard: Blinkit Sales Analysis
+# 📊 Power BI Dashboard: Blinkit Grocery Sales Data Analysis
 
 This mini Power BI project analyzes sales data for **Blinkit**, a fast-delivery grocery service in India. The dashboard provides insights into product performance, outlet metrics, and customer preferences across various outlet types and sizes.
 
-🔗 **[View Live Dashboard](https://app.powerbi.com/groups/me/dashboards/84e07cbc-2c44-4711-8ed2-3dd4afed1bad?experience=power-bi)**
+🔗 **Live Dashboard**: [Click here to view](https://tinyurl.com/blinkit-sales-dashboard)
 
 ---
 
@@ -49,9 +49,19 @@ These filters make the dashboard flexible and allow tailored analysis by busines
 
 ## 🛠 Tools Used
 
-- **Power BI** for dashboard development
-- **Excel** for data preprocessing
-- **Data Modeling** for measures and KPIs
+- **Power BI** for dashboard design and visualization
+- **Data Modeling** for organizing relationships and tables
+- **DAX (Data Analysis Expressions)** for custom KPIs and calculated fields
+- **Excel** for data cleaning and transformation
+
+## 🎯 Features
+
+- Slicers for:
+  - Outlet Location Type
+  - Outlet Size
+  - Item Type
+- Dynamic charts, KPIs, and custom measures
+
 
 ---
 
